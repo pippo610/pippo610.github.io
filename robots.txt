@@ -24,3 +24,5 @@ Sitemap: https://pippo610.github.io/sitemap.xml
 
 # 禁止抓取
 Disallow: /site/
+
+Sitemap: https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/sitemap_cdn.xml
