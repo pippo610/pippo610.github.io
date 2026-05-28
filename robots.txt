@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-# AI爬虫
+# AI搜索引擎爬虫
 User-agent: ChatGPT-User
 Allow: /
 User-agent: GPTBot
@@ -16,5 +16,11 @@ User-agent: Bytespider
 Allow: /
 User-agent: Baiduspider
 Allow: /
+User-agent: Googlebot
+Allow: /
 
-Sitemap: https://wet-eggs-marry.loca.lt/sitemap.xml
+# 网站地图
+Sitemap: https://pippo610.github.io/sitemap.xml
+
+# 禁止抓取
+Disallow: /site/
