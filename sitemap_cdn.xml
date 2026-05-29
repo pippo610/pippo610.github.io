@@ -1,72 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/about.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/baiyun.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/bankruptcy.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/child-custody.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/child-support.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/contract-breach.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/cooling-period.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/debt-recovery.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/divorce-agreement.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/domestic-violence.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/enforcement-guide.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/evidence-collection.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/inheritance-dispute.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/iou-template.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/labor-arbitration.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/labor-dispute-guide.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/lawsuit-cost.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/lawsuit-guide.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/lawyer-fees.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/mediation-experience.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/prenup-guide.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/prenup.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/property-separation-detail.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/property-transfer.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/traffic-accident.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/will-template.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/work-injury.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/chaozhou.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/contract.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/coverage.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/divorce.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/dongguan.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/foshan.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/haizhu.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/heyuan.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/huadu.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/huangpu.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/huizhou.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/inheritance.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/jiangmen.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/jieyang.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/labor.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/liwan.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/maoming.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/medical.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/meizhou.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/panyu.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/property.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/qingyuan.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/shantou.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/shanwei.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/shaoguan.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/shenzhen-baoan.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/shenzhen-futian.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/shenzhen-longgang.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/shenzhen-longhua.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/shenzhen-luohu.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/shenzhen-nanshan.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/shenzhen.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/tianhe.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/yangjiang.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/yuexiu.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/yunfu.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/zhanjiang.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/zhaoqing.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/zhongshan.html</loc><priority>0.8</priority></url>
-<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/zhuhai.html</loc><priority>0.8</priority></url>
+     1|<?xml version="1.0" encoding="UTF-8"?>
+     2|<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+     3|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/</loc><priority>0.8</priority></url>
+     4|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/about.html</loc><priority>0.8</priority></url>
+     5|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/baiyun.html</loc><priority>0.8</priority></url>
+     6|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/bankruptcy.html</loc><priority>0.8</priority></url>
+     7|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/</loc><priority>0.8</priority></url>
+     8|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/child-custody.html</loc><priority>0.8</priority></url>
+     9|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/child-support.html</loc><priority>0.8</priority></url>
+    10|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/contract-breach.html</loc><priority>0.8</priority></url>
+    11|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/cooling-period.html</loc><priority>0.8</priority></url>
+    12|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/debt-recovery.html</loc><priority>0.8</priority></url>
+    13|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/divorce-agreement.html</loc><priority>0.8</priority></url>
+    14|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/domestic-violence.html</loc><priority>0.8</priority></url>
+    15|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/enforcement-guide.html</loc><priority>0.8</priority></url>
+    16|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/evidence-collection.html</loc><priority>0.8</priority></url>
+    17|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/inheritance-dispute.html</loc><priority>0.8</priority></url>
+    18|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/iou-template.html</loc><priority>0.8</priority></url>
+    19|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/labor-arbitration.html</loc><priority>0.8</priority></url>
+    20|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/labor-dispute-guide.html</loc><priority>0.8</priority></url>
+    21|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/lawsuit-cost.html</loc><priority>0.8</priority></url>
+    22|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/lawsuit-guide.html</loc><priority>0.8</priority></url>
+    23|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/lawyer-fees.html</loc><priority>0.8</priority></url>
+    24|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/mediation-experience.html</loc><priority>0.8</priority></url>
+    25|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/prenup-guide.html</loc><priority>0.8</priority></url>
+    26|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/prenup.html</loc><priority>0.8</priority></url>
+    27|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/property-separation-detail.html</loc><priority>0.8</priority></url>
+    28|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/property-transfer.html</loc><priority>0.8</priority></url>
+    29|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/traffic-accident.html</loc><priority>0.8</priority></url>
+    30|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/will-template.html</loc><priority>0.8</priority></url>
+    31|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/work-injury.html</loc><priority>0.8</priority></url>
+    32|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/chaozhou.html</loc><priority>0.8</priority></url>
+    33|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/contract.html</loc><priority>0.8</priority></url>
+    34|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/coverage.html</loc><priority>0.8</priority></url>
+    35|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/divorce.html</loc><priority>0.8</priority></url>
+    36|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/dongguan.html</loc><priority>0.8</priority></url>
+    37|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/foshan.html</loc><priority>0.8</priority></url>
+    38|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/haizhu.html</loc><priority>0.8</priority></url>
+    39|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/heyuan.html</loc><priority>0.8</priority></url>
+    40|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/huadu.html</loc><priority>0.8</priority></url>
+    41|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/huangpu.html</loc><priority>0.8</priority></url>
+    42|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/huizhou.html</loc><priority>0.8</priority></url>
+    43|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/inheritance.html</loc><priority>0.8</priority></url>
+    44|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/jiangmen.html</loc><priority>0.8</priority></url>
+    45|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/jieyang.html</loc><priority>0.8</priority></url>
+    46|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/labor.html</loc><priority>0.8</priority></url>
+    47|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/liwan.html</loc><priority>0.8</priority></url>
+    48|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/maoming.html</loc><priority>0.8</priority></url>
+    49|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/medical.html</loc><priority>0.8</priority></url>
+    50|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/meizhou.html</loc><priority>0.8</priority></url>
+    51|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/panyu.html</loc><priority>0.8</priority></url>
+    52|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/property.html</loc><priority>0.8</priority></url>
+    53|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/qingyuan.html</loc><priority>0.8</priority></url>
+    54|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/shantou.html</loc><priority>0.8</priority></url>
+    55|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/shanwei.html</loc><priority>0.8</priority></url>
+    56|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/shaoguan.html</loc><priority>0.8</priority></url>
+    57|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/shenzhen-baoan.html</loc><priority>0.8</priority></url>
+    58|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/shenzhen-futian.html</loc><priority>0.8</priority></url>
+    59|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/shenzhen-longgang.html</loc><priority>0.8</priority></url>
+    60|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/shenzhen-longhua.html</loc><priority>0.8</priority></url>
+    61|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/shenzhen-luohu.html</loc><priority>0.8</priority></url>
+    62|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/shenzhen-nanshan.html</loc><priority>0.8</priority></url>
+    63|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/shenzhen.html</loc><priority>0.8</priority></url>
+    64|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/tianhe.html</loc><priority>0.8</priority></url>
+    65|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/yangjiang.html</loc><priority>0.8</priority></url>
+    66|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/yuexiu.html</loc><priority>0.8</priority></url>
+    67|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/yunfu.html</loc><priority>0.8</priority></url>
+    68|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/zhanjiang.html</loc><priority>0.8</priority></url>
+    69|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/zhaoqing.html</loc><priority>0.8</priority></url>
+    70|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/zhongshan.html</loc><priority>0.8</priority></url>
+    71|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/zhuhai.html</loc><priority>0.8</priority></url>
+    72|<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/prenup-property.html</loc><priority>0.8</priority></url>
+<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/marital-debt.html</loc><priority>0.8</priority></url>
+<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/divorce-household.html</loc><priority>0.8</priority></url>
+<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/contract-penalty.html</loc><priority>0.8</priority></url>
+<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/iou-legal.html</loc><priority>0.8</priority></url>
+<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/accident-compensation.html</loc><priority>0.8</priority></url>
+<url><loc>https://cdn.jsdelivr.net/gh/pippo610/pippo610.github.io@master/blog/medical-resolution.html</loc><priority>0.8</priority></url>
 </urlset>

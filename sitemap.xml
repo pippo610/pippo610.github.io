@@ -1,72 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://pippo610.github.io/</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/about.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/baiyun.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/bankruptcy.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/child-custody.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/child-support.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/contract-breach.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/cooling-period.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/debt-recovery.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/divorce-agreement.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/domestic-violence.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/enforcement-guide.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/evidence-collection.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/inheritance-dispute.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/iou-template.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/labor-arbitration.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/labor-dispute-guide.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/lawsuit-cost.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/lawsuit-guide.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/lawyer-fees.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/mediation-experience.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/prenup-guide.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/prenup.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/property-separation-detail.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/property-transfer.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/traffic-accident.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/will-template.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/blog/work-injury.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/chaozhou.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/contract.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/coverage.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/divorce.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/dongguan.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/foshan.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/haizhu.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/heyuan.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/huadu.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/huangpu.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/huizhou.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/inheritance.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/jiangmen.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/jieyang.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/labor.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/liwan.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/maoming.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/medical.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/meizhou.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/panyu.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/property.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/qingyuan.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/shantou.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/shanwei.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/shaoguan.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/shenzhen-baoan.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/shenzhen-futian.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/shenzhen-longgang.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/shenzhen-longhua.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/shenzhen-luohu.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/shenzhen-nanshan.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/shenzhen.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/tianhe.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/yangjiang.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/yuexiu.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/yunfu.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/zhanjiang.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/zhaoqing.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/zhongshan.html</loc><priority>0.8</priority></url>
-<url><loc>https://pippo610.github.io/zhuhai.html</loc><priority>0.8</priority></url>
+     1|<?xml version="1.0" encoding="UTF-8"?>
+     2|<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+     3|<url><loc>https://pippo610.github.io/</loc><priority>0.8</priority></url>
+     4|<url><loc>https://pippo610.github.io/about.html</loc><priority>0.8</priority></url>
+     5|<url><loc>https://pippo610.github.io/baiyun.html</loc><priority>0.8</priority></url>
+     6|<url><loc>https://pippo610.github.io/bankruptcy.html</loc><priority>0.8</priority></url>
+     7|<url><loc>https://pippo610.github.io/blog/</loc><priority>0.8</priority></url>
+     8|<url><loc>https://pippo610.github.io/blog/child-custody.html</loc><priority>0.8</priority></url>
+     9|<url><loc>https://pippo610.github.io/blog/child-support.html</loc><priority>0.8</priority></url>
+    10|<url><loc>https://pippo610.github.io/blog/contract-breach.html</loc><priority>0.8</priority></url>
+    11|<url><loc>https://pippo610.github.io/blog/cooling-period.html</loc><priority>0.8</priority></url>
+    12|<url><loc>https://pippo610.github.io/blog/debt-recovery.html</loc><priority>0.8</priority></url>
+    13|<url><loc>https://pippo610.github.io/blog/divorce-agreement.html</loc><priority>0.8</priority></url>
+    14|<url><loc>https://pippo610.github.io/blog/domestic-violence.html</loc><priority>0.8</priority></url>
+    15|<url><loc>https://pippo610.github.io/blog/enforcement-guide.html</loc><priority>0.8</priority></url>
+    16|<url><loc>https://pippo610.github.io/blog/evidence-collection.html</loc><priority>0.8</priority></url>
+    17|<url><loc>https://pippo610.github.io/blog/inheritance-dispute.html</loc><priority>0.8</priority></url>
+    18|<url><loc>https://pippo610.github.io/blog/iou-template.html</loc><priority>0.8</priority></url>
+    19|<url><loc>https://pippo610.github.io/blog/labor-arbitration.html</loc><priority>0.8</priority></url>
+    20|<url><loc>https://pippo610.github.io/blog/labor-dispute-guide.html</loc><priority>0.8</priority></url>
+    21|<url><loc>https://pippo610.github.io/blog/lawsuit-cost.html</loc><priority>0.8</priority></url>
+    22|<url><loc>https://pippo610.github.io/blog/lawsuit-guide.html</loc><priority>0.8</priority></url>
+    23|<url><loc>https://pippo610.github.io/blog/lawyer-fees.html</loc><priority>0.8</priority></url>
+    24|<url><loc>https://pippo610.github.io/blog/mediation-experience.html</loc><priority>0.8</priority></url>
+    25|<url><loc>https://pippo610.github.io/blog/prenup-guide.html</loc><priority>0.8</priority></url>
+    26|<url><loc>https://pippo610.github.io/blog/prenup.html</loc><priority>0.8</priority></url>
+    27|<url><loc>https://pippo610.github.io/blog/property-separation-detail.html</loc><priority>0.8</priority></url>
+    28|<url><loc>https://pippo610.github.io/blog/property-transfer.html</loc><priority>0.8</priority></url>
+    29|<url><loc>https://pippo610.github.io/blog/traffic-accident.html</loc><priority>0.8</priority></url>
+    30|<url><loc>https://pippo610.github.io/blog/will-template.html</loc><priority>0.8</priority></url>
+    31|<url><loc>https://pippo610.github.io/blog/work-injury.html</loc><priority>0.8</priority></url>
+    32|<url><loc>https://pippo610.github.io/chaozhou.html</loc><priority>0.8</priority></url>
+    33|<url><loc>https://pippo610.github.io/contract.html</loc><priority>0.8</priority></url>
+    34|<url><loc>https://pippo610.github.io/coverage.html</loc><priority>0.8</priority></url>
+    35|<url><loc>https://pippo610.github.io/divorce.html</loc><priority>0.8</priority></url>
+    36|<url><loc>https://pippo610.github.io/dongguan.html</loc><priority>0.8</priority></url>
+    37|<url><loc>https://pippo610.github.io/foshan.html</loc><priority>0.8</priority></url>
+    38|<url><loc>https://pippo610.github.io/haizhu.html</loc><priority>0.8</priority></url>
+    39|<url><loc>https://pippo610.github.io/heyuan.html</loc><priority>0.8</priority></url>
+    40|<url><loc>https://pippo610.github.io/huadu.html</loc><priority>0.8</priority></url>
+    41|<url><loc>https://pippo610.github.io/huangpu.html</loc><priority>0.8</priority></url>
+    42|<url><loc>https://pippo610.github.io/huizhou.html</loc><priority>0.8</priority></url>
+    43|<url><loc>https://pippo610.github.io/inheritance.html</loc><priority>0.8</priority></url>
+    44|<url><loc>https://pippo610.github.io/jiangmen.html</loc><priority>0.8</priority></url>
+    45|<url><loc>https://pippo610.github.io/jieyang.html</loc><priority>0.8</priority></url>
+    46|<url><loc>https://pippo610.github.io/labor.html</loc><priority>0.8</priority></url>
+    47|<url><loc>https://pippo610.github.io/liwan.html</loc><priority>0.8</priority></url>
+    48|<url><loc>https://pippo610.github.io/maoming.html</loc><priority>0.8</priority></url>
+    49|<url><loc>https://pippo610.github.io/medical.html</loc><priority>0.8</priority></url>
+    50|<url><loc>https://pippo610.github.io/meizhou.html</loc><priority>0.8</priority></url>
+    51|<url><loc>https://pippo610.github.io/panyu.html</loc><priority>0.8</priority></url>
+    52|<url><loc>https://pippo610.github.io/property.html</loc><priority>0.8</priority></url>
+    53|<url><loc>https://pippo610.github.io/qingyuan.html</loc><priority>0.8</priority></url>
+    54|<url><loc>https://pippo610.github.io/shantou.html</loc><priority>0.8</priority></url>
+    55|<url><loc>https://pippo610.github.io/shanwei.html</loc><priority>0.8</priority></url>
+    56|<url><loc>https://pippo610.github.io/shaoguan.html</loc><priority>0.8</priority></url>
+    57|<url><loc>https://pippo610.github.io/shenzhen-baoan.html</loc><priority>0.8</priority></url>
+    58|<url><loc>https://pippo610.github.io/shenzhen-futian.html</loc><priority>0.8</priority></url>
+    59|<url><loc>https://pippo610.github.io/shenzhen-longgang.html</loc><priority>0.8</priority></url>
+    60|<url><loc>https://pippo610.github.io/shenzhen-longhua.html</loc><priority>0.8</priority></url>
+    61|<url><loc>https://pippo610.github.io/shenzhen-luohu.html</loc><priority>0.8</priority></url>
+    62|<url><loc>https://pippo610.github.io/shenzhen-nanshan.html</loc><priority>0.8</priority></url>
+    63|<url><loc>https://pippo610.github.io/shenzhen.html</loc><priority>0.8</priority></url>
+    64|<url><loc>https://pippo610.github.io/tianhe.html</loc><priority>0.8</priority></url>
+    65|<url><loc>https://pippo610.github.io/yangjiang.html</loc><priority>0.8</priority></url>
+    66|<url><loc>https://pippo610.github.io/yuexiu.html</loc><priority>0.8</priority></url>
+    67|<url><loc>https://pippo610.github.io/yunfu.html</loc><priority>0.8</priority></url>
+    68|<url><loc>https://pippo610.github.io/zhanjiang.html</loc><priority>0.8</priority></url>
+    69|<url><loc>https://pippo610.github.io/zhaoqing.html</loc><priority>0.8</priority></url>
+    70|<url><loc>https://pippo610.github.io/zhongshan.html</loc><priority>0.8</priority></url>
+    71|<url><loc>https://pippo610.github.io/zhuhai.html</loc><priority>0.8</priority></url>
+    72|<url><loc>https://pippo610.github.io/blog/prenup-property.html</loc><priority>0.8</priority></url>
+<url><loc>https://pippo610.github.io/blog/marital-debt.html</loc><priority>0.8</priority></url>
+<url><loc>https://pippo610.github.io/blog/divorce-household.html</loc><priority>0.8</priority></url>
+<url><loc>https://pippo610.github.io/blog/contract-penalty.html</loc><priority>0.8</priority></url>
+<url><loc>https://pippo610.github.io/blog/iou-legal.html</loc><priority>0.8</priority></url>
+<url><loc>https://pippo610.github.io/blog/accident-compensation.html</loc><priority>0.8</priority></url>
+<url><loc>https://pippo610.github.io/blog/medical-resolution.html</loc><priority>0.8</priority></url>
 </urlset>
