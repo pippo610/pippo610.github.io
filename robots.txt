@@ -18,6 +18,14 @@ User-agent: Baiduspider
 Allow: /
 User-agent: Googlebot
 Allow: /
+User-agent: Applebot
+Allow: /
+User-agent: FacebookBot
+Allow: /
+
+# AI内容导航
+Allow: /llms.txt
+Allow: /llms.md
 
 # 网站地图
 Sitemap: https://pippo610.github.io/sitemap.xml
